@@ -52,13 +52,13 @@
 }
 
 .form input{
-    margin-left: 90px;
+    margin-left: 50px;
     margin-top: 4px;
     margin-bottom: 8px;
     padding: 3px;
     border-radius: 6px;
     border: none;
-    width: 500px;
+    width: 90%;
 }
 
 #companyDescription{
